@@ -18,3 +18,7 @@ This Java-based project simulates a real-time robot mapping system that fuses ca
 - JSON
 - Multithreading
 - JUnit
+
+## Authors
+
+Developed as part of University course: systems programming and networking.
